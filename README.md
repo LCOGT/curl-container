@@ -1,6 +1,6 @@
 # curl-container
 
-An Alpine-based container with just curl. Can be used in Kubernetes init
+An Alpine-based container with curl and jq. Can be used in Kubernetes init
 containers to check an HTTP endpoint.
 
 # Usage
